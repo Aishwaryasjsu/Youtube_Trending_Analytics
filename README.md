@@ -19,4 +19,11 @@ Schdueling -Apache Airflow
 ## Screenshots:
 https://docs.google.com/document/d/1Jn_36uijA2qk-Egh7ezYP-nLTKJYVSW9Gmma7zerAWM/edit
 ## Dashboards:
+![image](https://github.com/Aishwaryasjsu/Youtube_Trending_Analytics/assets/111553278/c835f8ee-e9a5-4db7-8aa5-d91617bcbfd8)
+![image](https://github.com/Aishwaryasjsu/Youtube_Trending_Analytics/assets/111553278/5d1d832b-cd53-4cc0-9921-a21734d8fb6f)
+![image](https://github.com/Aishwaryasjsu/Youtube_Trending_Analytics/assets/111553278/4dc5c5ad-16f7-401b-8e64-9bc4df360f88)
+
+https://github.com/Aishwaryasjsu/Youtube_Trending_Analytics/assets/111553278/57d3f6b1-1af7-447f-bb69-b7292b584d01
+
+
 
